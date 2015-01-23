@@ -16,3 +16,4 @@ let g:syntastic_error_symbol = '✗'
 let g:syntastic_warning_symbol = '⚠'
 let g:syntastic_full_redraws = 1
 let g:syntastic_aggregate_errors = 1
+let g:syntastic_check_on_wq = 0
